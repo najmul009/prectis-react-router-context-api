@@ -9,3 +9,14 @@
 .navbar h1{
     color: #ffffff;
 }
+.unactive{
+    color: #ffffff;
+    text-decoration: none;
+    margin: 0px 10px;
+}
+.active{
+    color: orange;
+    text-decoration: none;
+    margin: 0px 10px;
+
+}
